@@ -9,15 +9,16 @@ Andrés Sánchez
 ## Inductores y Capacitores
 ### 1.	OBJETIVOS
 
-**Principales**
 
- - Experimentar con la Máxima transferencia de Potencia.
 
+**Principal**
+
+ - Experimentar con los inductores y capacitores
+ 
 **Específicos**
 
-- Distinguirla potencia consumida de un circuito y la potencia máxima del circuito.
-- Apreciar la diferencia de voltaje y corriente cuando se cambia la resistencia RL.
-- Diferenciar las partes de un vatímetro.
+- Medir la corriente alterna
+- Explicar la teroia que pasa a traves de los Inductores y capacitores
 
 
 ### 2.	MARCO TEÓRICO
@@ -169,10 +170,10 @@ https://youtu.be/yZiy93hiuZA
 ### 6.	CONCLUSIONES
 
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El vatímetro se usa con cuatro pines el cual Dos de ellas son fijas y se conectan en serie a un circuito eléctrico, se denominan bobinas amperimétricas. Además, tiene otra móvil, también llamada «bobina voltimétrica, la cual se instala en paralelo con el circuito.
- - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
- - Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
- 
+ - El osciloscopio es una herramiente quenos permite encontrar lo que son, el periodo, el V pico a pico, V pico, V rms; I pico, I Pico a pico, I rms; de una forma analoga, debido a que no es un resultado estrictamente exacto, no existe un mismo resultado en función del tiempo.
+ - En un Circuito RC a mayor frecuencia genere una fuente de corriente alterna con el mismo volatje inicial, esta tiende a medirse en el osicloscopio y en el multimetro una menor lectura de voltaje junto con aumento de letura de su corriente .
+ - En un circuito RL a mayor frecuencia genere una fuente de corriente alterna con un mismo valor de voltaje inicial, este tiende a subir la lectura de voltaje junto con la disminución de lectura de corriente.
+ _ Cuando se da O hz en el generador de corriente continua estela amyor cantidad de correinte que va a tener dicho circuito
 
 ### 7.	BIBLIOGRAFÍA
 
