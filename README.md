@@ -68,6 +68,7 @@ Circuito RL
 #### 3.1.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 #### SIMULACIÓN
+![](blob:https://web.whatsapp.com/e16bfae9-ff85-46f8-8718-51cd146428d8)
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-01.png)
 ###### _FIGURA 3_
 
@@ -79,6 +80,7 @@ Circuito RL
 
 #### SIMULACIÓN
 
+![](blob:https://web.whatsapp.com/c06f4ed4-e0ed-4223-ae34-4a2027e2b8dc)
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-03.png)
 ###### _FIGURA 5_
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-04.png)
