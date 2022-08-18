@@ -68,10 +68,10 @@ Circuito RL
 
 #### SIMULACIÓN
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-01.png)
-###### _FIGURA 2_
+###### _FIGURA 3_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-02.png)
-###### _FIGURA 2_
+###### _FIGURA 4_
 
 
 #### 3.1.2 Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
@@ -79,17 +79,17 @@ Circuito RL
 #### SIMULACIÓN
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-03.png)
-###### _FIGURA 2_
+###### _FIGURA 5_
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-04.png)
-###### _FIGURA 2_
+###### _FIGURA 6_
 
 #### 3.1.3 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 #### SIMULACIÓN
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-05.png)
-###### _FIGURA 2_
+###### _FIGURA 7_
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-06.png)
-###### _FIGURA 2_
+###### _FIGURA 8_
 
 #### 3.2 Circuito RL
 
@@ -97,41 +97,41 @@ Circuito RL
 
 #### SIMULACIÓN
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-07.png)
-###### _FIGURA 2_
+###### _FIGURA 9_
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-08.png)
-###### _FIGURA 2_
+###### _FIGURA 10_
 
 #### 3.2.2 Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 #### SIMULACIÓN
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-09.png)
-###### _FIGURA 2_
+###### _FIGURA 11_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-10.png)
-###### _FIGURA 2_
+###### _FIGURA 12_
 
 #### 3.2.3 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 #### SIMULACIÓN
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-11.png)
-###### _FIGURA 2_
+###### _FIGURA 13_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-12.png)
-###### _FIGURA 2_
+###### _FIGURA 14_
 
 #### Cálculos
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-1.png)
-###### _FIGURA 2_
+###### _FIGURA 15_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-2.png)
-###### _FIGURA 2_
+###### _FIGURA 16_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-3.png)
-###### _FIGURA 2_
+###### _FIGURA 17_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-4.png)
-###### _FIGURA 2_
+###### _FIGURA 18_
 
  
 ### 4.	RESPUESTAS A INTERROGANTES
