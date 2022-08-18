@@ -22,10 +22,8 @@ Andrés Sánchez
 
 ### 2.	MARCO TEÓRICO
 
-El teorema de transferencia de potencia máxima no es tanto un medio de análisis como una ayuda para el diseño del sistema. En pocas palabras, la cantidad máxima de energía se disipará por una resistencia de carga cuando esa resistencia de carga sea igual a la resistencia de Thévenin / Norton de la red que suministra la energía. Si la resistencia de carga es menor o mayor que la resistencia Thévenin / Norton de la red de origen, su potencia disipada será menor que la máxima.
 
-Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, donde la «impedancia» de la antena o la línea de transmisión se corresponde con la potencia final amplificador «impedancia» para obtener la máxima potencia de radiofrecuencia. La impedancia, la oposición general a la corriente CA y CC, es muy similar a la resistencia y debe ser igual entre la fuente y la carga para que se transfiera la mayor cantidad de energía a la carga. Una impedancia de carga demasiado alta dará como resultado una salida de baja potencia. Una impedancia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su impedancia interna (Thévenin o Norton).
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/11.png) 
 
 ###### _FIGURA 1_
 
@@ -35,331 +33,85 @@ Esto es esencialmente lo que se pretende en el diseño del transmisor de radio, 
 ### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
 - Diagramas eléctricos
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/2.png)
+Circuito RC 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/2.png) 
+
+Circuito RL 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/4.png) 
 
 ###### _FIGURA 2_
 
-- Diagrama de bloques
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/3.png)
-
-###### _FIGURA 3_
 
 ####	LISTA DE COMPONENTES
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
-| 1 |Fuente de voltaje de C.D. | 
-| 1 |Multímetro |  
-|1 |Resistor de 220 Ω|
-|1 |Resistor de 470 Ω|
-|1 |Resistor de 680 Ω|
-|1 |Resistor de 820 Ω|
-|1 |Resistor de 1 kΩ|
-|1 |Resistor de 1.5 kΩ|
-|1 |Resistor de 1.8 kΩ|
-|1 |Resistor de 2.2 kΩ|
-|1 |Resistor de 3.9 kΩ|
-|1 |Resistor de 4.7 kΩ|
-|1 |Protoboard|
+| 1 | Generador de señales | 
+| 1 | Osciloscopio |
+| 1 | Protoboard |
+| 1 | Multímetro |
+| 1 | Cables conductores |
+| 2 | Resistencias de 100 Ω |
+| 2 | Bobinas 10 µF |
+| 2 | Capacitores 100 mH |
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
 
-#### 3.1. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 4.1. Anote los resultados medidos.
+#### 3.1 Circuito RC
+
+#### 3.1.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
 #### SIMULACIÓN
 
-El Voltaje y corriente de RL = 220 Ω 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/4.png)
-###### _FIGURA 4_
+#### 3.1.2 Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-El Voltaje y corriente de RL = 470 Ω 
+#### SIMULACIÓN
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/5.png)
-###### _FIGURA 5_
+#### 3.1.3 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-El Voltaje y corriente de RL = 680 Ω
+#### SIMULACIÓN
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/6.png)
-###### _FIGURA 6_
-El Voltaje y corriente de RL = 820 Ω
+#### 3.2 Circuito RC
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/7.png)
-###### _FIGURA 7_
+#### 3.2.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
-El Voltaje y corriente de RL = 1 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/8.png)
-###### _FIGURA 8_
+#### SIMULACIÓN
 
-El Voltaje y corriente de RL = 1.5 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/9.png)
-###### _FIGURA 9_
+#### 3.2.2 Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-El Voltaje y corriente de RL = 1.8 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/10.png)
-###### _FIGURA 10_
+#### SIMULACIÓN
 
-El Voltaje y corriente de RL = 2.2 kΩ
+#### 3.2.3 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/11.png)
-###### _FIGURA 11_
+#### SIMULACIÓN
 
-El Voltaje y corriente de RL = 3.9 kΩ
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/12.png)
-###### _FIGURA 12_
-
-El Voltaje y corriente de RL = 4.7 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/13.png)
-###### _FIGURA 13_
-
-
-
-#### MEDICIÓN
-Se tiene que preparar los componentes antes de la construcción del circuito
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
-###### _FIGURA 14_
-
-El Voltaje y corriente de RL = 220 Ω
-
-Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/24.png)
-###### _FIGURA 15_
-
-Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/25.png)
-###### _FIGURA 16_
-
-
-El Voltaje y corriente de RL = 470 Ω 
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/27.png)
-###### _FIGURA 17_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/28.png)
-###### _FIGURA 18_
-
-El Voltaje y corriente de RL = 680 Ω
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/30.png)
-###### _FIGURA 19_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/31.png)
-###### _FIGURA 20_
-
-El Voltaje y corriente de RL = 820 Ω
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/33.png)
-###### _FIGURA 21_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/34.png)
-###### _FIGURA 22_
-
-El Voltaje y corriente de RL = 1 kΩ 
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/36.png)
-###### _FIGURA 23_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/37.png)
-###### _FIGURA 24_
-
-El Voltaje y corriente de RL = 1.5 kΩ 
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/39.png)
-###### _FIGURA 25_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/40.png)
-###### _FIGURA 26_
-
-El Voltaje y corriente de RL = 1.8 kΩ 
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/42.png)
-###### _FIGURA 27_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/43.png)
-###### _FIGURA 28_
-
-El Voltaje y corriente de RL = 2.2 kΩ
-
-Voltaje
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/45.png)
-###### _FIGURA 29_
-
-Corriente
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/46.png)
-###### _FIGURA 30_
-
-El Voltaje y corriente de RL = 3.9 kΩ
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/48.png)
-###### _FIGURA 31_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/49.png)
-###### _FIGURA 32_
-
-El Voltaje y corriente de RL = 4.7 kΩ 
-
-Voltaje
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/51.png)
-###### _FIGURA 33_
-
-Corriente
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/52.png)
-###### _FIGURA 34_
-
-
-#### 3.2. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 4.1.
-
-Potencia consumida por RL = 220 Ω 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/26.png)
-###### _FIGURA 35_
-
-Potencia consumida por RL = 470 Ω 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/29.png)
-###### _FIGURA 36_
-
-Potencia consumida por RL = 680 Ω
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/32.png)
-###### _FIGURA 37_
-
-Potencia consumida por RL = 820 Ω
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/35.png)
-###### _FIGURA 38_
-
-Potencia consumida por RL = 1 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/38.png)
-###### _FIGURA 39_
-
-Potencia consumida por RL = 1.5 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/41.png)
-###### _FIGURA 40_
-
-Potencia consumida por RL = 1.8 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/44.png)
-###### _FIGURA 41_
-
-Potencia consumida por RL = 2.2 kΩ
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/47.png)
-###### _FIGURA 42_
-
-Potencia consumida por RL = 3.9 kΩ
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/50.png)
-###### _FIGURA 43_
-
-Potencia consumida por RL = 4.7 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/53.png)
-###### _FIGURA 44_
-
-
-
-
-#### 3.3. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 4.1. Anote los resultados medidos.
-
-Potencia consumida por RL = 220 Ω 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/14.png)
-###### _FIGURA 45_
-
-Potencia consumida por RL = 470 Ω 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/15.png)
-###### _FIGURA 46_
-
-Potencia consumida por RL = 680 Ω
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/16.png)
-###### _FIGURA 47_
-
-Potencia consumida por RL = 820 Ω
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/17.png)
-###### _FIGURA 48_
-
-Potencia consumida por RL = 1 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/18.png)
-###### _FIGURA 49_
-
-Potencia consumida por RL = 1.5 kΩ 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/19.png)
-###### _FIGURA 50_
-
-Potencia consumida por RL = 1.8 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/20.png)
-###### _FIGURA 51_
-
-Potencia consumida por RL = 2.2 kΩ
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/21.png)
-###### _FIGURA 52_
-
-Potencia consumida por RL = 3.9 kΩ
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/22.png)
-###### _FIGURA 53_
-
-Potencia consumida por RL = 4.7 kΩ 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/23.png)
-###### _FIGURA 54_
-
-#### Cálculos
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/54.png)
-###### _FIGURA 55_
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/55.png)
-###### _FIGURA 56_
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/56.png)
-###### _FIGURA 57_
  
 ### 4.	RESPUESTAS A INTERROGANTES
+Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 #### Tabla 4.1
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/57.png)
 
-#### 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
-Si, porque en las tablas se ve una potencia máxima que del circuito dentro de cualquier teoría sea de Thévenin o de Norton. con el cual en las gráficas que se presencia existe un pico en el cual, es la derivada de la función.
-#### 4.2. ¿Cuál fue la potencia máxima en RL?
-0.017 watts
-#### 4.3. ¿Para qué valor de RL se obtiene la MTP?
-1000 Ω
-#### 4.4. Grafique la curva Potencia vs RL y comente.
+#### 5.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+El capacitor se comporta como circuito abierto y la bobina como un cortocircuito
+
+#### 5.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+La bobina almacena corriente, mientras que el capacitor almacena voltaje.
+
+#### 5.3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Ocurriría lo mismo que se observó en la práctica, debido a que tiene las misma caracterízticas que se tiene en el inductor y el capacitor
+
+
+#### 5.4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+El valor eficaz es el equivalente en DC del valor pico en la corriente alterna, esto se obtiene dividiendo el valor pico por la raíz de 2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/58.png)
 ###### _FIGURA 58_
