@@ -119,20 +119,7 @@ Ocurriría lo mismo que se observó en la práctica, debido a que tiene las mism
 
 El valor eficaz es el equivalente en DC del valor pico en la corriente alterna, esto se obtiene dividiendo el valor pico por la raíz de 2.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/58.png)
-###### _FIGURA 58_
 
-Se encuentran una transferencia máxima de potencia debido a que estamos en un sistema cerrado, es decir que esto no es un espacio abierto en el cual se pueda dar más corriente y con ello se dará más potencia, por ende, esto tiene un pico en donde el voltaje y la corriente están en un punto óptimo.
-
-#### Calcular errores de las mediciones y comentar los resultados.
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/59.png)
-###### _FIGURA 59_
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/60.png)
-###### _FIGURA 60_
-
-Al hacer el experimento con una fuente de voltaje de 9 V eso influye mucho en el porcentaje de error que se tiene. Al comparar lo teórico con los resultados del simulador se Encuentra que no se tiene un gran error de medición. 
 
 ### 5. VIDEOS
 
