@@ -18,7 +18,7 @@ Andrés Sánchez
 **Específicos**
 
 - Medir la corriente alterna
-- Explicar la teroia que pasa a traves de los Inductores y capacitores
+- Explicar la teoría que pasa a través de los Inductores y capacitores
 
 
 ### 2.	MARCO TEÓRICO
@@ -154,7 +154,7 @@ La bobina almacena corriente, mientras que el capacitor almacena voltaje.
 
 #### 4.3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-Ocurriría lo mismo que se observó en la práctica, debido a que tiene las misma caracterízticas que se tiene en el inductor y el capacitor
+Ocurriría lo mismo que se observó en la práctica, debido a que tiene las mismas características que se tiene en el inductor y el capacitor
 
 
 #### 4.4.- ¿Qué son los valores eficaces de voltaje y corriente?
@@ -170,15 +170,16 @@ https://youtu.be/yZiy93hiuZA
 ### 6.	CONCLUSIONES
 
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El osciloscopio es una herramiente quenos permite encontrar lo que son, el periodo, el V pico a pico, V pico, V rms; I pico, I Pico a pico, I rms; de una forma analoga, debido a que no es un resultado estrictamente exacto, no existe un mismo resultado en función del tiempo.
- - En un Circuito RC a mayor frecuencia genere una fuente de corriente alterna con el mismo volatje inicial, esta tiende a medirse en el osicloscopio y en el multimetro una menor lectura de voltaje junto con aumento de letura de su corriente .
+ - El osciloscopio es una herramienta que nos permite encontrar lo que son, el periodo, el V pico a pico, V pico, V rms; I pico, I Pico a pico, I rms; de una forma análoga, debido a que no es un resultado estrictamente exacto, no existe un mismo resultado en función del tiempo.
+ - En un Circuito RC a mayor frecuencia genere una fuente de corriente alterna con el mismo voltaje inicial, esta tiende a medirse en el osciloscopio y en el multímetro una menor lectura de voltaje junto con aumento de lectura de su corriente .
  - En un circuito RL a mayor frecuencia genere una fuente de corriente alterna con un mismo valor de voltaje inicial, este tiende a subir la lectura de voltaje junto con la disminución de lectura de corriente.
- _ Cuando se da O hz en el generador de corriente continua estela amyor cantidad de correinte que va a tener dicho circuito
+ _ Cuando se da O Hz en el generador de corriente continua estela mayor cantidad de corriente que va a tener dicho circuito
 
 ### 7.	BIBLIOGRAFÍA
 
-Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacion. Serway,
+Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educación. Serway,
 
-R. (2001). Física II. México: Pearson Educacion.
+R. (2001). Física II. México: Pearson Educación.
 
-A. (2021, 5 agosto). El. La fisica y quimica. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+A. (2021, 5 agosto). El. La física y química. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
