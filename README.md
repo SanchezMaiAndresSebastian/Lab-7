@@ -125,7 +125,7 @@ Circuito RL
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-1.png)
 ###### _FIGURA 15_
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-2.png)
+![]()
 ###### _FIGURA 16_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-3.png)
