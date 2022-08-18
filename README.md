@@ -98,8 +98,10 @@ Para cada uno de los circuitos anteriores, elabore una tabla con los resultados 
 
 #### Tabla 4.1
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6---2022/blob/main/Fotos/57.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/14.png)
 
+#### Tabla 4.2
+![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/15.png)
 #### 4.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 El capacitor se comporta como circuito abierto y la bobina como un cortocircuito
