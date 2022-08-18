@@ -90,6 +90,8 @@ Circuito RL
 
 #### SIMULACIÓN
 
+#### Cálculos
+
  
 ### 4.	RESPUESTAS A INTERROGANTES
 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
